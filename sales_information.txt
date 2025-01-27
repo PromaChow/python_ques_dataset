@@ -1,0 +1,7 @@
+Representative,Month,Sales  
+Alice,January,5000  
+Bob,January,4000  
+Alice,February,6000  
+Bob,February,3000  
+Charlie,January,4500  
+Charlie,February,5500  
